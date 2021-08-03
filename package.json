@@ -1,0 +1,25 @@
+{
+  "name": "simple-istanbul",
+  "version": "1.0.0",
+  "description": "一个简单的Istanbul模拟",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": false,
+  "keywords": [],
+  "homepage": "https://github.com/lengnuo/istan.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lengnuo/istan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/parser": "^7.14.9",
+    "@babel/traverse": "^7.14.9",
+    "@babel/types": "^7.14.9",
+    "fs": "^0.0.1-security"
+  }
+}
